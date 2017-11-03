@@ -1,29 +1,28 @@
 CACHE MANIFEST
-#ver:2/12/2017, 9:47:45 PM
-#plugin:4.6.1
+#ver:11/2/2017, 10:29:23 PM
+#plugin:4.8.4
 
 CACHE:
-/react-redux-saga-boilerplate/media/apple-touch-icon.png
-/react-redux-saga-boilerplate/media/favicon-16x16.png
-/react-redux-saga-boilerplate/media/favicon-32x32.png
+/react-redux-saga-boilerplate/media/og-image-v1.png
 /react-redux-saga-boilerplate/media/favicon.ico
+/react-redux-saga-boilerplate/media/apple-touch-icon.png
+/react-redux-saga-boilerplate/media/favicon-32x32.png
+/react-redux-saga-boilerplate/media/favicon-16x16.png
+/react-redux-saga-boilerplate/manifest.json
+/react-redux-saga-boilerplate/media/icon-96x96.png
 /react-redux-saga-boilerplate/media/icon-144x144.png
 /react-redux-saga-boilerplate/media/icon-192x192.png
 /react-redux-saga-boilerplate/media/icon-512x512.png
-/react-redux-saga-boilerplate/media/icon-96x96.png
 /react-redux-saga-boilerplate/media/safari-pinned-tab.svg
-/react-redux-saga-boilerplate/media/og-image-v1.png
-/react-redux-saga-boilerplate/manifest.json
-/react-redux-saga-boilerplate/fonts/icon-font-v2.svg
 /react-redux-saga-boilerplate/fonts/icon-font-v2.ttf
 /react-redux-saga-boilerplate/fonts/icon-font-v2.woff
-/react-redux-saga-boilerplate/media/icon.png
+/react-redux-saga-boilerplate/fonts/icon-font-v2.svg
 /react-redux-saga-boilerplate/media/icon.svg
-/react-redux-saga-boilerplate/scripts/app.96e1f859b8c43635c169.js
-/react-redux-saga-boilerplate/scripts/modernizr.96e1f859b8c43635c169.js
-/react-redux-saga-boilerplate/styles/app.96e1f859b8c43635c169.css
-/react-redux-saga-boilerplate/robots.txt
-/react-redux-saga-boilerplate/browserconfig.xml
+/react-redux-saga-boilerplate/media/icon.png
+/react-redux-saga-boilerplate/scripts/app.77ad70c.js
+/react-redux-saga-boilerplate/scripts/modernizr.77ad70c.js
+/react-redux-saga-boilerplate/styles/app.77ad70c.css
+/react-redux-saga-boilerplate/404.html
 /react-redux-saga-boilerplate/
 
 NETWORK:
