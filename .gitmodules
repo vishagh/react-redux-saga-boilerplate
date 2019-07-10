@@ -1,0 +1,3 @@
+[submodule "src/mocks"]
+	path = src/mocks
+	url = https://github.com/vishagh/mock.git
